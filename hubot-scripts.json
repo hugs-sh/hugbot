@@ -1,1 +1,12 @@
-["redis-brain.coffee", "shipit.coffee"]
+[
+  "redis-brain.coffee", 
+  "shipit.coffee", 
+  "archer.coffee", 
+  "brb.coffee", 
+  "cloudapp.coffee", 
+  "darksky.coffee", 
+  "factoid.coffee", 
+  "giphy.coffee", 
+  "hashing.coffee", 
+  "status.coffee"
+]
