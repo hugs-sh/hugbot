@@ -19,6 +19,5 @@
   "factoid.coffee", 
   "giphy.coffee", 
   "hashing.coffee", 
-  "status.coffee",
-  "wolfram.coffee"
+  "status.coffee"
 ]
