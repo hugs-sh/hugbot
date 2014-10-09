@@ -1,5 +1,9 @@
 [
   "hubot-tell",
   "hugbot-karma",
-  "hubot-calculator"
+  "hubot-calculator",
+  "hubot-dinosaur-comics",
+  "hubot-humanity",
+  "hubot-auth",
+  "hubot-google-translate"
 ]
