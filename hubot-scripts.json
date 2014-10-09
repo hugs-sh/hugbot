@@ -21,4 +21,6 @@
   "giphy.coffee", 
   "hashing.coffee", 
   "status.coffee",
+  "wikipedia.coffee",
+  "wolfram.coffee"
 ]
