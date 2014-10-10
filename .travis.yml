@@ -1,8 +1,8 @@
 language: node_js
 node_js:
-- '0.10'
+  - '0.10'
 before_install:
-- npm install coffee-script
+  - npm install coffee-script
 deploy:
   app: secret-eyrie-7825
   provider: heroku
