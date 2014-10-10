@@ -1,12 +1,13 @@
 language: node_js
-node_js: 
-  - "0.10"
+node_js:
+- '0.10'
 before_install:
-  - npm install coffee-script
+- npm install coffee-script
 deploy:
   app: secret-eyrie-7825
   provider: heroku
   api_key:
     secure: R4TvZpY2QnylE42LK2K+RrvNuV3BilLmN608CkfQcqAbQibW8paVvsbujNHewmC8An2MZ59MbrM5vt4zoZKzm39SN13FVD4tu8fpENJhDxWYKG64vjZo89naADUYeTY6FmGCisVj8PmMmUyefUKlA5nhV0wxa/NojXg/84usYsg=
-  # strategy: git
-  
+notifications:
+  slack:
+    secure: kU4o1zM1484uopCjyjMy6pXYM9fijeXJB+U30n4Hjfm9XnQPrX0ZVBE/y9z4JQQpYspax+ZLneexGjv8F3zWpXRrSmRQwa6iDJOJ2knmA1e6YoZhyqvjY5jCuFvWE5O4zEepANCI6q9m/auX/V+/CMIMGiH8rAIru/pQJvZchyc=
