@@ -1,7 +1,6 @@
 [
   "redis-brain.coffee", 
   "shipit.coffee", 
-  "archer.coffee", 
   "brb.coffee", 
   "chuck-norris.coffee",
   "clark.coffee",
